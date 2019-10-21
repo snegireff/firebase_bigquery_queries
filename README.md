@@ -19,6 +19,7 @@ Author:
 (https://support.google.com/firebase/answer/9037342?hl=en&ref_topic=7029512)
 
 
+
 ## N-day active users [sql/N-day active users.sql](sql/N-day active users.sql "N-day active users")
 
 Description:
