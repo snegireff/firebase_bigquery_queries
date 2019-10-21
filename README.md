@@ -2,7 +2,7 @@
 Example of queries for app+web and firebase bigQuery export
 
 
-## Purchasers
+## Purchasers [sql/Purchasers.sql](sql/Purchasers.sql "Heading link")
 
 [sql/Purchasers.sql][PlDb]
 
