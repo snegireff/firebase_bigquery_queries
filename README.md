@@ -7,7 +7,6 @@ Example of queries for app+web and firebase bigQuery export
 Description:
 
 Computes the audience of purchasers.
-
 Purchasers = users (by user_pseudo_id) who have logged either in_app_purchase or ecommerce_purchase.
 
 Results:
@@ -25,7 +24,6 @@ Author:
 Description:
 
 Builds an audience of N-Day Active Users.
-
 N-day active users = users who have logged at least one user_engagement event in the last N days.
 
 Author:
