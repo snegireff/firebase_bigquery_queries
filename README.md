@@ -19,7 +19,8 @@ Author:
 
 
 
-## N-day active users [sql/N-day active users.sql](sql/N-day active users.sql "N-day active users")
+
+## N-day active users [sql/N-day_active_users.sql](sql/N-day_active_users.sql "N-day active users")
 
 Description:
 
