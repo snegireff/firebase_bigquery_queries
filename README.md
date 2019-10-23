@@ -42,7 +42,7 @@ user_engagement event in the last N days where M > N.
 
 Results:
 
-<img width="158" alt="Purchasers" src="https://user-images.githubusercontent.com/56918494/67395542-df3de180-f5ae-11e9-98b2-9c7398749326.jpg">
+<img src="https://user-images.githubusercontent.com/56918494/67395542-df3de180-f5ae-11e9-98b2-9c7398749326.jpg">
 
 
 Author:
@@ -58,7 +58,7 @@ Builds an audience of Frequently Active Users.
 
 Results:
 
-<img width="158" alt="Purchasers" src="https://user-images.githubusercontent.com/56918494/67396939-2200b900-f5b1-11e9-966c-2cc3d72c32b7.jpg">
+<img  src="https://user-images.githubusercontent.com/56918494/67396939-2200b900-f5b1-11e9-966c-2cc3d72c32b7.jpg">
 
 
  Author:
