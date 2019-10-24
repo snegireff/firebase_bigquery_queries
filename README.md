@@ -52,6 +52,7 @@ Author:
 ## Frequently active users [sql\Frequently_active_users](sql\Frequently_active_users "Frequently active users")
 
 Description:
+
 Builds an audience of Frequently Active Users.
  Frequently Active Users = users who have logged at least once
  'user_engagement' event on N of the last M days where M > N.
@@ -64,6 +65,42 @@ Results:
  Author:
 
  (https://support.google.com/firebase/answer/9037342?hl=en&ref_topic=7029512)
+
+## Highly active users [sql\Highly_active_users](sql\Highly_active_users "Highly active users")
+
+Description:
+
+Builds an audience of Highly Active Users.
+Highly Active Users = users who have been active for more than N minutes in the last M days where M > N.
+
+Results:
+
+<img  src="https://user-images.githubusercontent.com/56918494/67485113-17f2bf00-f672-11e9-90a5-3c5eea67de7d.jpg">
+
+## Acquired users [sql\Acquired_users](sql\Acquired_users "Acquired users")
+
+
+Description:
+
+Builds an audience of Acquired Users.
+Acquired Users = users who were acquired via some Source/Medium/Campaign.
+
+Results:
+
+<img  src="https://user-images.githubusercontent.com/56918494/67491241-44600880-f67d-11e9-9cde-e066cd9bf2fb.jpg">
+
+
+##Cohorts with filters [sql\Cohorts_with_filters](sql\Cohorts_with_filters "Cohorts with filters")
+
+Description:
+
+Builds an audience composed of users acquired last week through Google campaigns, i.e., cohorts with filters.
+Cohort is defined as users acquired last week, i.e. between 7 - 14 days ago. The cohort filter is for users acquired through a direct
+campaign.
+
+Results:
+
+<img  src="https://user-images.githubusercontent.com/56918494/67495491-a7ed3480-f683-11e9-939f-20184ddf93bb.jpg">
 
 
 
