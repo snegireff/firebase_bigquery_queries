@@ -31,6 +31,9 @@ Author:
 
 (https://support.google.com/firebase/answer/9037342?hl=en&ref_topic=7029512)
 
+
+
+
 ## N-day inactive users [sql\N-day_inactive_users.sql](sql\N-day_inactive_users.sql "N-day inactive users")
 
 
@@ -49,6 +52,9 @@ Author:
 
 (https://support.google.com/firebase/answer/9037342?hl=en&ref_topic=7029512)
 
+
+
+
 ## Frequently active users [sql\Frequently_active_users](sql\Frequently_active_users "Frequently active users")
 
 Description:
@@ -66,6 +72,9 @@ Results:
 
  (https://support.google.com/firebase/answer/9037342?hl=en&ref_topic=7029512)
 
+
+
+
 ## Highly active users [sql\Highly_active_users](sql\Highly_active_users "Highly active users")
 
 Description:
@@ -77,8 +86,15 @@ Results:
 
 <img  src="https://user-images.githubusercontent.com/56918494/67485113-17f2bf00-f672-11e9-90a5-3c5eea67de7d.jpg">
 
-## Acquired users [sql\Acquired_users](sql\Acquired_users "Acquired users")
 
+Author:
+
+(https://support.google.com/firebase/answer/9037342?hl=en&ref_topic=7029512)
+
+
+
+
+## Acquired users [sql\Acquired_users](sql\Acquired_users "Acquired users")
 
 Description:
 
@@ -90,7 +106,14 @@ Results:
 <img  src="https://user-images.githubusercontent.com/56918494/67491241-44600880-f67d-11e9-9cde-e066cd9bf2fb.jpg">
 
 
-##Cohorts with filters [sql\Cohorts_with_filters](sql\Cohorts_with_filters "Cohorts with filters")
+Author:
+
+(https://support.google.com/firebase/answer/9037342?hl=en&ref_topic=7029512)
+
+
+
+
+## Cohorts with filters [sql\Cohorts_with_filters](sql\Cohorts_with_filters "Cohorts with filters")
 
 Description:
 
@@ -101,6 +124,31 @@ campaign.
 Results:
 
 <img  src="https://user-images.githubusercontent.com/56918494/67495491-a7ed3480-f683-11e9-939f-20184ddf93bb.jpg">
+
+
+Author:
+
+(https://support.google.com/firebase/answer/9037342?hl=en&ref_topic=7029512)
+
+
+
+
+## How to use the UNNEST function to analyze event parameters [sql\UNNEST_function_event_parameters](sql\UNNEST_function_event_parameters "How to use the UNNEST function to analyze event parameters")
+
+Description:
+
+How to use the UNNEST function in BigQuery to analyze event parameters.
+
+Results:
+
+<img  src="https://user-images.githubusercontent.com/56918494/67698542-35e25b80-f9b3-11e9-81db-5fc382aef952.jpg">
+
+
+Author:
+
+(https://medium.com/firebase-developers/using-the-unnest-function-in-bigquery-to-analyze-event-parameters-in-analytics-fb828f890b42)
+
+
 
 
 
