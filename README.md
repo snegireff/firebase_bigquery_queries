@@ -34,7 +34,7 @@ Author:
 
 
 
-## N-day inactive users [sql\N-day_inactive_users.sql](sql\N-day_inactive_users.sql "N-day inactive users")
+## N-day inactive users [sql\N-day_inactive_users.sql](sql/N-day_inactive_users.sql "N-day inactive users")
 
 
 Description:
@@ -55,7 +55,7 @@ Author:
 
 
 
-## Frequently active users [sql\Frequently_active_users](sql\Frequently_active_users.sql "Frequently active users")
+## Frequently active users [sql\Frequently_active_users](sql/Frequently_active_users.sql "Frequently active users")
 
 Description:
 
@@ -75,7 +75,7 @@ Results:
 
 
 
-## Highly active users [sql\Highly_active_users](sql\Highly_active_users.sql "Highly active users")
+## Highly active users [sql\Highly_active_users](sql/Highly_active_users.sql "Highly active users")
 
 Description:
 
@@ -94,7 +94,7 @@ Author:
 
 
 
-## Acquired users [sql\Acquired_users](sql\Acquired_users.sql "Acquired users")
+## Acquired users [sql\Acquired_users](sql/Acquired_users.sql "Acquired users")
 
 Description:
 
@@ -113,7 +113,7 @@ Author:
 
 
 
-## Cohorts with filters [sql\Cohorts_with_filters](sql\Cohorts_with_filters.sql "Cohorts with filters")
+## Cohorts with filters [sql\Cohorts_with_filters](sql/Cohorts_with_filters.sql "Cohorts with filters")
 
 Description:
 
@@ -133,7 +133,7 @@ Author:
 
 
 
-## How to use the UNNEST function to analyze event parameters [sql\UNNEST_function_event_parameters](sql\UNNEST_function_event_parameters.sql "How to use the UNNEST function to analyze event parameters")
+## How to use the UNNEST function to analyze event parameters [sql\UNNEST_function_event_parameters](sql/UNNEST_function_event_parameters.sql "How to use the UNNEST function to analyze event parameters")
 
 Description:
 
